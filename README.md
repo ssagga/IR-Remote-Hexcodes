@@ -1,4 +1,4 @@
-# Welcome to StackEdit!
+# List of IR remote control hex codes
 
 This is a WIP list of IR remote control codes scanned using the Broadlink RM4C to be used in configuration files for home automation plugins in platforms such as Home Bridge or Home Assistant
 
